@@ -1,0 +1,13 @@
+ID,이름,이미지,가격,타입,세부타입,수치,설명
+1,NormalArrow,RPG_inventory_icons/b_t_01,100,Equip,Acc,5,크리티컬확률이 소폭 증가한다.강화수치만큼 크리티컬확률이 추가로 증가할수있다.
+2,NormalSword,Characters/Stylized/Icons/weapon_icon,100,Equip,Weapon,15,공격력이 소폭 증가한다. 강화수치만큼 공격력이 추가로 증가할수있다.
+3,NormalHat,RPG_inventory_icons/helmets,100,Equip,Hat,2,방어력이 소폭 증가한다. 강화수치만큼 방어력이 추가로 증가할수있다.
+4,NormalArmor,Characters/Stylized/Icons/armor_icon,100,Equip,Armor,500,최대체력이 소폭 증가한다. 강화수치만큼 체력이 추가로 증가할수있다.
+5,NormalBoots,RPG_inventory_icons/boots,100,Equip,Boots,1,이동속도가 소폭 증가한다.강화수치만큼 체력이 추가로 증가할수있다.
+6,ChainArmor,RPG_inventory_icons/armor,1000,Equip,Armor,1000,체력이 큰폭 증가한다.강화수치만큼 체력이 추가로 증가할수있다.
+7,Bolt,Icons/Bolt colored,2000,Equip,Boots,2,이동속도가 대폭 증가한다. 강화수치만큼 체력이 추가로 증가할수있다.
+8,Clock,RPG_inventory_icons/cloaks,1000,Equip,Hat,4,방어력이 큰폭으로 증가한다. 강화수치만큼 방어력이 추가로 증가할수있다.
+9,Glove,RPG_inventory_icons/gloves,1000,Equip,Acc,10,크리티컬확률이 크게 증가한다. 강화수치만큼 크리티컬확률이 추가로 증가할수있다.
+10,IronSword,RPG_inventory_icons/sword,1500,Equip,Weapon,30,공격력이 크게 증가한다. 강화수치만큼 공격력이 추가로 증가할수있다.
+11,BasicPortion,RPG_inventory_icons/hp,500,Equip,Use,200,현재체력을 소폭 회복시킨다.
+12,BigPortion,RPG_inventory_icons/BigPortion,1200,Equip,Use,350,체력을 크게 회복시킨다.
