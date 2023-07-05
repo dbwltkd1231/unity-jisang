@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093790950576",
+    "firebase_url": "https://test-e44be-default-rtdb.firebaseio.com",
+    "project_id": "test-e44be",
+    "storage_bucket": "test-e44be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093790950576:android:326d1a6e47c9ea0223c775",
+        "android_client_info": {
+          "package_name": "com.jisang.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093790950576-ksnnstukgkd0fajbv6e4ms4gvuekujj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvVyj_Ut_pCjuqtxWKxcBMo4V8Wujj24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093790950576-ksnnstukgkd0fajbv6e4ms4gvuekujj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

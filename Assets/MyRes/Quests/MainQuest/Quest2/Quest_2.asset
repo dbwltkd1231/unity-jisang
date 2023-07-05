@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69eec34e18fa23040a76142ac587bea9, type: 3}
+  m_Name: Quest_2
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 04d2a6a0e7be3d6409407b4d843fb022, type: 2}
+  icon: {fileID: 21300000, guid: db427fab3e94daf4caa704d9314a77a1, type: 3}
+  codeName: Conquer The Tower
+  displayName: "\uD0D1\uC758 \uAF2D\uB300\uAE30\uB85C.."
+  description: "\uD0D0\uC5D0\uC62C\uB77C \uD30C\uB780\uBB3C\uC57D\uC744 \uCC3E\uACE0
+    \uAC00\uB294\uAE38\uC5D0 \uB3C5\uC218\uB9AC\uB3C4 \uCC98\uCE58\uD558\uC790"
+  taskGroups:
+  - tasks:
+    - {fileID: 11400000, guid: 0840cd2eb094a334184fb2197e2d7344, type: 2}
+  - tasks:
+    - {fileID: 11400000, guid: b3b973fa36e59dd40b536c0a6b6e8c39, type: 2}
+    - {fileID: 11400000, guid: 1e99bb59dcda0ec419f6e74d23c060f6, type: 2}
+  - tasks:
+    - {fileID: 11400000, guid: e54289b39898040498fc2382c282ec3a, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: 3d7bd670f3aa8c14cbe11772dcc6a919, type: 2}
+  - {fileID: 11400000, guid: 3cae200d6c22b804bb7763980c8203eb, type: 2}
+  useAutoComplete: 0
+  isCancelable: 0
+  acceptionConditions:
+  - {fileID: 11400000, guid: a84e9102f3be6e0489f9f3c80d05d2cc, type: 2}
+  cancelConditions: []
+  isSavable: 1

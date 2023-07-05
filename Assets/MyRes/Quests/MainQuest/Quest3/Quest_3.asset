@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69eec34e18fa23040a76142ac587bea9, type: 3}
+  m_Name: Quest_3
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 070d931c142a7ee4ba978dd6434dc61a, type: 2}
+  icon: {fileID: 21300000, guid: db427fab3e94daf4caa704d9314a77a1, type: 3}
+  codeName: Final Mission
+  displayName: "\uB9C8\uC9C0\uB9C9 \uC784\uBB34"
+  description: "\uCD5C\uC885\uACB0\uC804"
+  taskGroups:
+  - tasks:
+    - {fileID: 11400000, guid: 8167596c5bc02c549aabf00d892f0ea3, type: 2}
+  - tasks:
+    - {fileID: 11400000, guid: cbceb9329dfe77f488aa70cc50f0210c, type: 2}
+  - tasks:
+    - {fileID: 11400000, guid: 55e4976425852b842af84062737c5706, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: e6164f9369ee4a041a728aeb9f6df767, type: 2}
+  - {fileID: 11400000, guid: 3cae200d6c22b804bb7763980c8203eb, type: 2}
+  useAutoComplete: 0
+  isCancelable: 0
+  acceptionConditions:
+  - {fileID: 11400000, guid: 1a6c3ee64fa1ac64797000a25b8cce57, type: 2}
+  cancelConditions: []
+  isSavable: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2370b88775d53ed4b8b644fc75534359, type: 3}
+  m_Name: Quest_2_Task_3
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 24cb369c84286ea4ab31362c7ad04afe, type: 2}
+  codeName: Return To Travler
+  description: "\uBAA8\uD5D8\uAC00\uC5D0\uAC8C \uB3CC\uC544\uAC00\uB77C"
+  action: {fileID: 11400000, guid: 430d18529649955478fd47e50d17453a, type: 2}
+  targets:
+  - {fileID: 11400000, guid: 04c259223fd2338439940769cbe8a103, type: 2}
+  initialSuccessValue: {fileID: 0}
+  needSuccessToComplete: 1
+  canReceiveReportsDuringCompletion: 0
